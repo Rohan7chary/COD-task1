@@ -2,7 +2,7 @@ Name : Rohan chary
 ID   : CTO8AI54
 Domain : Data science
 Duration : 4 week from 10th may 2024 to 10th june 2024
-Mentor  : Muzammil Sir
+Mentor  : Sravani Gouni
 Description : 
 Exploratory Data Analysis (EDA) of the Titanic Dataset
 Objective: The objective of this project is to perform an in-depth exploratory data analysis (EDA) of the Titanic dataset using popular Python libraries such as pandas, numpy, matplotlib, and seaborn. The goal is to uncover the characteristics, distributions, correlations, and outliers in the data, and visualize the findings using histograms, scatter plots, and heatmaps to gain valuable insights into the data.
